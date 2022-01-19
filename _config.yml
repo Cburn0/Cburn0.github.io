@@ -16,11 +16,11 @@ author: Cburn0
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  GitHub Projects:
-    - SharpInjector: "2021-02-04-sharpinjector/"
-    - Miscellaneous: "projects/miscellaneous"
-  About Me: "aboutme"
+#  navbar-links:
+#  GitHub Projects:
+ #   - SharpInjector: "2021-02-04-sharpinjector/"
+  #  - Miscellaneous: "projects/miscellaneous"
+ # About Me: "aboutme"
 
 # --- Logo --- #
 
