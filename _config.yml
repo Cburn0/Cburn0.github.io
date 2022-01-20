@@ -1,4 +1,4 @@
-# If you're reading this, you're a legend! - Cburn0
+# If you're reading this, you're a legend! - CBurn0
 
 
 # Welcome to Beautiful Jekyll!
@@ -9,10 +9,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Cburn0
+title: CBurn0
 
 # Your name to show in the footer
-author: Cburn0
+author: CBurn0
 
 # --- List of links in the navigation bar --- #
 
@@ -42,8 +42,8 @@ avatar: "/assets/img/Fire Pic (2).jpg"
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
 # email: "someone@example.com"
-  github: Cburn0 
-  twitter: Cburn0
+  github: CBurn0 
+  twitter: CBurn0
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  reddit: yourname
@@ -78,7 +78,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Cburn0.github.io"
+url-pretty: "CBurn0.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
